@@ -14,7 +14,7 @@
 
 i) GET API call to generate JWT key,given the _username_ and  _password_ of user in the body of request. To generate _**JWT key**_  , jsonwebtoken module is used (implementation details are in controller directory)
 
-ii) GET API call to generate user ID, given _username_ , _password_ , _dateofbirth_ , _name_  of user in the body of the  request.To generate _**user_ID**_  , uuid module has been used(implementation details are in controller directory)
+ii) GET API call to generate user ID, given _username_ , _password_ , _dateofbirth_ , _name_  of user in the body of the  request.To generate _**user_ID**_  , uuid module has been used (implementation details are in controller directory)
 
 --------------------------------------------------------------------------------
 ### 4)   Validations:
