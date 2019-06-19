@@ -27,7 +27,7 @@ ii) GET API call to generate user ID, given _username_ , _password_ , _dateofbir
  
  --------------------------------------------------------------------------- 
  
- ### 5) Running the service
+ ### 5) Running the service:
  
  #### i)  Locate to the root directory i.e. DataSutram_challenge 
  #### ii)  Open terminal and execute:
