@@ -3,14 +3,14 @@
 
 ### 2)  Installation:
 #### i)   Install Node.js	
-#####  If required , install the modules express,router, body-parser,jsonwebtoken,uuid, nodemon,moment in the root directory
+######  If required , install the modules express,router, body-parser,jsonwebtoken,uuid, nodemon,moment in the root directory
 
         npm install express  router body-parser jsonwebtoken uuid nodemon moment express-validator
             
 ----------------------------------------------------------------------------
 
 ### 3)  Services:
-##### There are two services:
+###### There are two services:
 
 i) GET API call to generate JWT key,given the _username_ and  _password_ of user in the body of request. To generate _**JWT key**_ , jsonwebtoken module is used (implementation details are in controller directory)
 
